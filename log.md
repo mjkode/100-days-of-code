@@ -1,9 +1,14 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Round 1
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 001: May 27, 2021, Thursday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Getting Ready
+d001,2021-05-27,"creat csv file to track project"
+d001,2021-05-27,"join 100daysofcode group on slack"
+d001,2021-05-27,"fork 100daysofcode repo on githun"
+d001,2021-05-27,"create folder on laptop"
+d001,2021-05-27,"start researching js project" 
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
