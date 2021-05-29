@@ -3,28 +3,23 @@
 ### Day 001: May 27, 2021, Thursday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Getting Ready
-d001,2021-05-27,"creat csv file to track project"
-d001,2021-05-27,"join 100daysofcode group on slack"
-d001,2021-05-27,"fork 100daysofcode repo on githun"
-d001,2021-05-27,"create folder on laptop"
-d001,2021-05-27,"start researching js project" 
+**Today's Progress**: Creat csv file to track project, join 100xofcode on slack, fork 100daysofcode repo on github, create folder on laptop, start researching js project. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I wanter to have this first. It gives me a good starting point, some ideas, and a little tie to thik about what to do.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** nothing yet
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 002: May 28, 2021, Friday
+<!--##### (delete me or comment me out)-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: To start, I'm going to build a 100doc tracking app based on a shopping list app. I downloaded and tested 'learning es6, how to code a shopping list' from github. Author is Tyler Potts. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I like the looks of this app. I plan on starting with a simple list, Then I'll add other functions and limits to make it more inline with the spirit of 100daysofcode rules..
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: nothug yet
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
