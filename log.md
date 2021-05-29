@@ -16,7 +16,7 @@
 
 **Thoughts**: I like the looks of this app. I plan on starting with a simple list, Then I'll add other functions and limits to make it more inline with the spirit of 100daysofcode rules..
 
-**Link(s) to work**: nothug yet
+**Link(s) to work**: nothing yet
 
 
 <!-- ### Day 1: June 27, Monday
