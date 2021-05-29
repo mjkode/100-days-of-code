@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log - Round 1
 
 ### Day 001: May 27, 2021, Thursday
-##### (delete me or comment me out)
 
 **Today's Progress**: Creat csv file to track project, join 100xofcode on slack, fork 100daysofcode repo on github, create folder on laptop, start researching js project. 
 
