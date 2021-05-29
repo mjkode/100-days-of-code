@@ -5,7 +5,7 @@
 
 **Today's Progress**: Creat csv file to track project, join 100xofcode on slack, fork 100daysofcode repo on github, create folder on laptop, start researching js project. 
 
-**Thoughts:** I wanter to have this first. It gives me a good starting point, some ideas, and a little tie to thik about what to do.
+**Notes:** I wanter to have this first. It gives me a good starting point, some ideas, and a little tie to thik about what to do.
 
 **Link to work:** nothing yet
 
@@ -14,7 +14,7 @@
 
 **Today's Progress**: To start, I'm going to build a 100doc tracking app based on a shopping list app. I downloaded and tested 'learning es6, how to code a shopping list' from github. Author is Tyler Potts. 
 
-**Thoughts**: I like the looks of this app. I plan on starting with a simple list, Then I'll add other functions and limits to make it more inline with the spirit of 100daysofcode rules..
+**Notes**: I like the looks of this app. I plan on starting with a simple list, Then I'll add other functions and limits to make it more inline with the spirit of 100daysofcode rules..
 
 **Link(s) to work**: nothing yet
 
