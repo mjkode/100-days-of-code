@@ -17,6 +17,22 @@
 
 **Link(s) to work**: nothing yet
 
+### Day 003: May 29, 2021, Friday
+<!--##### (delete me or comment me out)-->
+
+**Today's Progress**: Changed my mind, still doing a shopping list app, but "Shopping-list-vanilla-javascript" by W.S. Toh better suites my needs. It uses Windows:LocalStorage to save the data and I've never used LocalStorage in my programming. 
+ 
+
+**Notes**: I want to start with LocalStorage and eventually move to a SQL database.
+
+**Link(s) to work**: nothing yet
+
+
+
+
+
+
+
 
 <!-- ### Day 1: June 27, Monday
 
