@@ -8,7 +8,9 @@
 more work with DOM properties. Reversed the page layout order to 'last to first' so the most recent days would be on top. Changed titles and heading to reflect 100daysofcode tracking.
 
 **Notes**: This is my first real work with DOM. 
+
 **Link(s):** nothing yet
+
 
 
 ### Day 004: May 30, 2021, Saturday
@@ -17,7 +19,9 @@ more work with DOM properties. Reversed the page layout order to 'last to first'
 Walked through "Shopping-list-vanilla-javascript" getting to know the flow and purpose of individual sections.
 
 **Notes**: This is my first real work with DOM. 
+
 **Link(s):** nothing yet
+
 
 
 ### Day 003: May 29, 2021, Friday
@@ -26,7 +30,9 @@ Walked through "Shopping-list-vanilla-javascript" getting to know the flow and p
 **Today's Progress**: Changed my mind, still doing a shopping list app, but "Shopping-list-vanilla-javascript" by W.S. Toh better suites my needs. It uses Windows:LocalStorage to save the data and I've never used LocalStorage in my programming. 
 
 **Notes**: I want to start with LocalStorage and eventually move to a SQL database.
+
 **Link(s):** nothing yet
+
 
 
 ### Day 002: May 28, 2021, Friday
@@ -35,7 +41,9 @@ Walked through "Shopping-list-vanilla-javascript" getting to know the flow and p
 **Today's Progress**: To start, I'm going to build a 100doc tracking app based on a shopping list app. I downloaded and tested 'learning es6, how to code a shopping list' from github. Author is Tyler Potts. 
 
 **Notes**: I like the looks of this app. I plan on starting with a simple list, Then I'll add other functions and limits to make it more inline with the spirit of 100daysofcode rules..
+
 **Link(s):** nothing yet
+
 
 
 ### Day 001: May 27, 2021, Thursday
@@ -43,6 +51,7 @@ Walked through "Shopping-list-vanilla-javascript" getting to know the flow and p
 **Today's Progress**: Creat csv file to track project, join 100xofcode on slack, fork 100daysofcode repo on github, create folder on laptop, start researching js project. 
 
 **Notes:** I wanter to have this first. It gives me a good starting point, some ideas, and a little tie to thik about what to do.
+
 **Link:** nothing yet
 
 
