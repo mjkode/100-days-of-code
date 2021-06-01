@@ -10,7 +10,7 @@ more work with DOM properties. Reversed the page layout order to 'last to first'
 **Notes**: This is my first real work with DOM. 
 
 **Link(s):** nothing yet
-
+** **
 
 
 ### Day 004: May 30, 2021, Saturday
