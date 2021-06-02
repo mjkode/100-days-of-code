@@ -2,7 +2,7 @@
 
 
 
-### Day 005: May 31, 2021, Sunday
+### Day 005: May 31, 2021, Monday
 
 **Today's Progress**: #100daysofcode Day 005 2021-05-31
 more work with DOM properties. Reversed the page layout order to 'last to first' so the most recent days would be on top. Changed titles and heading to reflect 100daysofcode tracking.
@@ -13,7 +13,7 @@ more work with DOM properties. Reversed the page layout order to 'last to first'
 ** **
 
 
-### Day 004: May 30, 2021, Saturday
+### Day 004: May 30, 2021, Sunday
 
 **Today's Progress**: #100daysofcode Day 005 2021-05-30
 Walked through "Shopping-list-vanilla-javascript" getting to know the flow and purpose of individual sections.
@@ -24,7 +24,7 @@ Walked through "Shopping-list-vanilla-javascript" getting to know the flow and p
 ** **
 
 
-### Day 003: May 29, 2021, Friday
+### Day 003: May 29, 2021, Saturday
 <!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Changed my mind, still doing a shopping list app, but "Shopping-list-vanilla-javascript" by W.S. Toh better suites my needs. It uses Windows:LocalStorage to save the data and I've never used LocalStorage in my programming. 
