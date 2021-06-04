@@ -1,6 +1,37 @@
 # 100 Days Of Code - Log - Round 1
 
 
+### Day 008: June 03, 2021, Thursday
+
+**Today's Progress**: #100daysofcode day 008
+Reading the html dom element and adding it to the database is cumbersome, so I'm going to add a table instead.
+
+**Notes**:
+
+**Link(s):** nothing yet
+** **
+
+
+### Day 007: June 02, 2021, Wednesday
+
+**Today's Progress**: #100daysofcode Day 007 2021-06-02The 'finished' option was working correctly. Need to reverse the order of the array id.
+
+**Notes**: 
+
+**Link(s):** nothing yet
+** **
+
+
+### Day 006: June 01, 2021, Tuesday
+
+**Today's Progress**: #100daysofcode Day 006 2021-06-01
+After reversing layout order, added edit, and delete  options. Changed colors and screen size. Worked with html css and js. My first real work with DOM"
+
+**Notes**:  
+
+**Link(s):** nothing yet
+** **
+
 
 ### Day 005: May 31, 2021, Monday
 
