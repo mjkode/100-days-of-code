@@ -1,0 +1,61 @@
+/* (A) CONTAINERS + SHARED */
+#shop-list, #shop-add {
+  display: flex;
+  flex-wrap: wrap;
+  /*background: lime;*/
+  padding: 10px;
+  max-width: 100%;
+}
+H1{
+  /*display: flex;*/
+  flex-wrap: wrap;
+  /*background: lime;*/
+  text-align: center;
+  max-width: 100%;
+  padding-bottom: 0;
+}
+
+H2{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0px -5px 0px;
+  padding-left: 30px;
+  max-width: 100%;
+}
+
+.item-row, .item-name, .item-del, #shop-item, #shop-add-btn {
+  box-sizing: border-box; 
+  border: 10;
+}
+
+.item-name, #shop-item {
+  background: crimson;
+  padding: 10px 10px 10px 10px;
+}
+.item-del, #shop-add-btn {
+  cursor: pointer;
+  color: black;
+}
+
+#shop-add-btn {
+  cursor: pointer;
+  color: black;
+}
+
+/* (B) SHOPPING LIST */
+.item-row {
+  display: flex;
+  width: 100%;
+  margin: 0 0 5px 0;
+}
+.item-name { margin-right: 5px; width: 90%; }
+
+.item-del { width: 10%; background: red; }
+
+
+/* (C) ADD ITEM */
+#shop-item { width: 90%; font-size: 16px; font-weight: bold;}
+#shop-add-btn {width: 10%; background: #green;}
+
+/* [DOES NOT MATTER] */
+html, body {padding: 10px; font-family: arial, sans-serif }
