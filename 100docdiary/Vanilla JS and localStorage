@@ -1,0 +1,3 @@
+The localStorage mechanism is available via the Window.localStorage property. Window.localStorage is part of the Window interface in JavaScript, which represents a window containing a DOM document.
+
+https://blog.logrocket.com/localstorage-javascript-complete-guide/
