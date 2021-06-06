@@ -4,7 +4,7 @@
 ### Day 010: June 05, 2021, Saturday
 
 **Today's Progress**: #100daysofcode day 010
-Saving data to windowslocalstorage limits option. Researching read/write hey/value objects to csv filesfrom
+Saving data to windowslocalstorage limits option. Researching read/write hey/value objects to csv files 
 
 **Notes**:
 
