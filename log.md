@@ -1,6 +1,28 @@
 # 100 Days Of Code - Log - Round 1
 
 
+### Day 009: June 05, 2021, Saturday
+
+**Today's Progress**: #100daysofcode day 010
+Saving data to windowslocalstorage limits option. Researching read/write hey/value objects to csv filesfrom
+
+**Notes**:
+
+**Link(s):** nothing yet
+** **
+
+
+### Day 008: June 04, 2021, Friday
+
+**Today's Progress**: #100daysofcode day 009
+Reversed decision on table.The daily entries should not be editable once submited so the loaded text elements are just divs no text boxes. Good asis, uploaded to github
+
+**Notes**:
+
+**Link(s):** nothing yet
+** **
+
+
 ### Day 008: June 03, 2021, Thursday
 
 **Today's Progress**: #100daysofcode day 008
